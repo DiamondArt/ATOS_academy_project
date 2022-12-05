@@ -43,7 +43,7 @@ nav li a:hover {
   color: orangered;
 }
 
-#myBtn {
+#toTop {
   display: none;
   position: fixed;
   bottom: 20px;
@@ -59,7 +59,7 @@ nav li a:hover {
   border-radius: 4px;
 }
 
-#myBtn:hover {
+#toTop:hover {
   background-color: #555;
 }
 .title-bordered{
@@ -113,7 +113,6 @@ text-align: center;
   font-weight: 300;
   margin: 4px;
 }
-
 
 .spacer{
   padding: 15px;
